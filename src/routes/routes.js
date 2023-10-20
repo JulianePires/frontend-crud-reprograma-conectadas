@@ -15,22 +15,27 @@ export const PATHS = {
 
 const ROUTES = [
   {
+    name: "Home",
     path: PATHS.HOME,
     element: Home,
   },
   {
+    name: "Cadastrar",
     path: PATHS.CADASTRAR,
     element: Cadastrar,
   },
   {
+    name: "Visualizar",
     path: PATHS.VISUALIZAR,
     element: Visualizar,
   },
   {
+    name: "Editar",
     path: PATHS.EDITAR,
     element: Editar,
   },
   {
+    name: "Sobre",
     path: PATHS.SOBRE,
     element: Sobre,
   },
