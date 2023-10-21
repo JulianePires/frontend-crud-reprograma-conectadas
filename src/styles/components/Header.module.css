@@ -1,0 +1,30 @@
+.headerContainer{
+    display: flex;
+    background-color: #000000;
+    justify-content: space-between;
+}
+
+.headerRight{
+    display: flex;
+}
+
+.logo{
+    padding: 10px;
+}
+
+.headerNav{
+    display: flex;
+   
+}
+
+h2{
+    color: #ffffff;
+    padding: 10px;
+    font-size: 24px;
+    justify-content: space-around;
+}
+
+.headerSocialMedia{
+    display: flex;
+    padding: 35px;
+}
