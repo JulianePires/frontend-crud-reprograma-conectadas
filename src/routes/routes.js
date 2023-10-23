@@ -4,6 +4,7 @@ import Home from "../pages/home";
 import Sobre from "../pages/sobre";
 import Visualizar from "../pages/visualizar";
 
+
 // TODO: Modificar rotas para aplicação
 export const PATHS = {
   HOME: "/",

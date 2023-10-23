@@ -1,7 +1,18 @@
 import styles from "../../styles/pages/Home.module.css";
 
 const Home = () => {
-  return <div className={styles.container}>Home 1</div>;
+  return <main className={styles.container}>
+   <header>
+
+   </header>
+
+   <footer>
+    
+   </footer>
+
+
+  </main>
 };
+
 
 export default Home;
