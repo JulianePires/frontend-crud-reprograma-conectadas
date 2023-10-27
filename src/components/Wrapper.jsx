@@ -3,7 +3,7 @@ import Footer from "./Footer";
 import Sidebar from "./Sidebar";
 
 const Wrapper = (params) => {
-  const { children, rota } = params;
+  const { children} = params;
   return (
     <div>
       <Header />
